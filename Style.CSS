@@ -1,8 +1,20 @@
 body {
   background-color: rgb(65, 71, 71);
+  height: 1200px; 
+  background-image: linear-gradient(rgb(43, 7, 204), rgb(71, 6, 124), rgb(12, 12, 12))
 }
 
-.header {
-  color: Cornflowerblue;
+.body {
+  color: rgb(175, 177, 182);
+  text-align: center;
+}
+
+html, body {
+  margin: 3;
+  padding:0;
+}
+
+.h2 {
+  color: rgb(175, 177, 182);
   text-align: center;
 }
